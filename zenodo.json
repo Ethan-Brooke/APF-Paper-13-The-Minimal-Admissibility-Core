@@ -1,0 +1,33 @@
+{
+  "title": "APF Paper 13 — The Minimal Admissibility Core",
+  "description": "<p>Master reference document. Comprehensive self-contained exposition of the entire APF framework. All 19 bank-registered modules + apf/standalone/, 342 bank-registered theorems, 355 verify_all checks (codebase v6.9), unified derivation from Axiom A1.</p><p>This repository is the executable mathematical appendix for Paper 13 of the Admissibility Physics Framework (APF). All theorems trace to named check functions in the bundled <code>apf/</code> package.</p>",
+  "creators": [
+    {
+      "name": "Brooke, Ethan",
+      "affiliation": "Independent Researcher, San Anselmo, California, USA",
+      "orcid": "0009-0001-2261-4682"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": ["master reference", "framework summary", "APF core", "minimal admissibility"],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Ethan-Brooke/APF-Paper-13-The-Minimal-Admissibility-Core",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.18614663",
+      "relation": "isVersionOf",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.18604548",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ],
+  "version": "8.3-PLEC"
+}
