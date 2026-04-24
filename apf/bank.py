@@ -1,4 +1,4 @@
-"""APF v6.7 Theorem Bank — unified registry with lazy loading.
+"""APF v6.9 Theorem Bank — unified registry with lazy loading.
 
 Each physics module exports a register(registry) function that adds
 its theorem check functions to the global REGISTRY. No theorem logic
